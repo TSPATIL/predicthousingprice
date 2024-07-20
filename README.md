@@ -28,5 +28,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 3. Commit your changes (`git commit -am 'Add new feature'`)
 4. Push to the branch (`git push origin feature-branch`)
 5. Create a new Pull Request
-
-This customized `README.md` file is now specific to your GitHub repository at `https://github.com/TSPATIL/predicthousingprice.git`. If you have specific details or additional sections to include, let me know!
