@@ -1,2 +1,1 @@
-# predicthousingprice
-Predicting Housing Prices Using Linear Regression
+# Predicting Housing Prices Using Linear Regression
